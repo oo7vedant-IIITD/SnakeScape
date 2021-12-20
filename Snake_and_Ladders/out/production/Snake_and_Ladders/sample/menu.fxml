@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="790.0" prefWidth="660.0" style="-fx-background-image: url('file:/D:/Coding/Java_Programs/Snake_and_Ladders/src/Red_board_background.png'); -fx-background-size: cover;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+
+</AnchorPane>

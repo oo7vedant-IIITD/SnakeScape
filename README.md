@@ -1,11 +1,12 @@
 <!-- PROJECT LOGO -->
+
 <br />
 <p align="center">
-  <a>
+  <a href="https://github.com/oo7vedant-IIITD/SnakeScape">
     <img src="readme_images/logo.jpg" alt="Logo" width="200" height="200">
   </a>
 
-  <h1 align="center">SnakeScape</h1>
+  <h3 align="center">SnakeScape</h3>
 
   <p align="center">
     Your favorite childhood game, reimagined!
@@ -13,7 +14,12 @@
     <strong>Explore the docs »</strong>
     <br />
     <br />
+    <a href="https://github.com/oo7vedant-IIITD/Online_Retail_Store/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/oo7vedant-IIITD/Online_Retail_Store/issues">Request Feature</a>
+    <br />
 </p>
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -108,7 +114,7 @@ Feel free to clone and modify according to your needs. But please give desirable
 
 <!-- CONTACT -->
 ## Contact
-- Vedant Gupta - vedant20261@iiitd.ac.in
+Vedant Gupta - vedant20261@iiitd.ac.in
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
